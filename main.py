@@ -1,1 +1,5 @@
-print("Elo")
+print("Witam")
+
+a = 2
+
+print(a)
